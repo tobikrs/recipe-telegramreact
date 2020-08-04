@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "Tobias Krause",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/tobikrs/recipe-telegramreact",
   "config": {
     "serviceURL": "https://evgeny-nadymov.github.io/telegram-react/",
     "hasDirectMessages": true,
