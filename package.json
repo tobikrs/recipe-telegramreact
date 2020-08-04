@@ -1,0 +1,15 @@
+{
+  "id": "telegramreact",
+  "name": "Telegram React",
+  "version": "1.0.0",
+  "description": "Telegram React",
+  "main": "index.js",
+  "author": "Tobias Krause",
+  "license": "MIT",
+  "repository": "",
+  "config": {
+    "serviceURL": "https://evgeny-nadymov.github.io/telegram-react/",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}

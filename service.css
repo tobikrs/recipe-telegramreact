@@ -1,0 +1,12 @@
+.page {
+    max-width: unset;
+}
+
+.dialogs {
+    max-width: 420px !important;
+    width: 25%;
+}
+
+.dialog-details {
+    max-width: unset !important;
+}
